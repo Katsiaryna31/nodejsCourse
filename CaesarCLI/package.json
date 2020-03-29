@@ -1,0 +1,23 @@
+{
+  "name": "caesarcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_caesar_cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Katsiaryna31"
+  },
+  "keywords": [
+    "node",
+    "caesar",
+    "cipher"
+  ],
+  "author": "Katsiaryna31",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
